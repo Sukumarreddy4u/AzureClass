@@ -65,7 +65,7 @@
             "value": "opsuser"
         },
         "adminPublicKey": {
-            "value": null
+            "value": "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDBH0BqbyInn8nR3uUoAhtNSYWQgtZZQfELu26ma+0bnVP+CRqaxXfYyBz0Sbeq+wKmQoU2mPaTwGbvPL7CJKWpUd3+rYmxrERzwbcoUZoZX5epRT0e1QDEoqig7etlsi9pXdsQFiK4+p8E2sUiC3cooBVbJ4Rhqf9X94HkBvRsfz28DCoBKT93jdyHTEVgvDV5n0OD2utKYJIAt3O5V0pad+wW5eyOaZiR/Jvtn+tZJorp4laRSPGZjFcuLRm3pGqw8Z5D+8oOP2O3cbrmBU1QDvIs3+SffZga6EvRIE5d18BL0M0cQ00mnwt8ZQAkb5BaVi8Hm19Q+mjFc7vichGl"
         },
         "diagnosticsStorageAccountName": {
             "value": "table3day2diag"
